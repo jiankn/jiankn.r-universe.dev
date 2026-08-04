@@ -2,5 +2,7 @@
 
 Package registry for the public `jiankn` R-universe.
 
-The source package is maintained at
-https://github.com/jiankn/pinterest-url-normalizer-r.
+Registered source packages:
+
+- https://github.com/jiankn/pinterest-url-normalizer-r
+- https://github.com/jiankn/nbmecalc-r

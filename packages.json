@@ -2,5 +2,9 @@
   {
     "package": "pinteresturl",
     "url": "https://github.com/jiankn/pinterest-url-normalizer-r"
+  },
+  {
+    "package": "nbmecalc",
+    "url": "https://github.com/jiankn/nbmecalc-r"
   }
 ]

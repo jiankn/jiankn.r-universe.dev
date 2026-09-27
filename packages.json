@@ -6,5 +6,9 @@
   {
     "package": "nbmecalc",
     "url": "https://github.com/jiankn/nbmecalc-r"
+  },
+  {
+    "package": "textpatterns",
+    "url": "https://github.com/jiankn/relationship-text-patterns-r"
   }
 ]
